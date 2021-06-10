@@ -1,0 +1,17 @@
+{
+  "storeList": ["3427", "3430"],
+  "supplierList": [
+    {
+      "supNumber": "3334",
+      "supName": "Corp Trky"
+    },
+    {
+      "supNumber": "3327",
+      "supName": "Froz Deli"
+    },
+    {
+      "supNumber": "3337",
+      "supName": "Froz Groc"
+    }
+  ]
+}

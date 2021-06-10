@@ -1,0 +1,17 @@
+{
+  "storeList": ["0008", "0010"],
+  "supplierList": [
+    {
+      "supNumber": "0516",
+      "supName": "Boxed Meat"
+    },
+    {
+      "supNumber": "0524",
+      "supName": "Corp Trky"
+    },
+    {
+      "supNumber": "0521",
+      "supName": "Floral"
+    }
+  ]
+}

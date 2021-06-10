@@ -1,0 +1,34 @@
+{
+  "orderRouteInfoList": [
+    {
+      "stopID": "0",
+      "storeID": "66-DC",
+      "status": "In Transit",
+      "estimatedArrival": null,
+      "estimatedDeparture": "2021-03-06T11:30:00.000+00:00",
+      "actualArrivalTime": null,
+      "actualDepartureTime": null,
+      "latitude": null,
+      "longitude": null,
+      "actualArrivalTimeText": null,
+      "actualDepartureTimeText": null,
+      "storePhone": null,
+      "address": null
+    },
+    {
+      "stopID": "1",
+      "storeID": "52-DC",
+      "status": "In Transit",
+      "estimatedArrival": "2021-03-06T18:05:00.000+00:00",
+      "estimatedDeparture": null,
+      "actualArrivalTime": null,
+      "actualDepartureTime": null,
+      "latitude": "47.06537556513488",
+      "longitude": "-109.4228214507757",
+      "actualArrivalTimeText": null,
+      "actualDepartureTimeText": null,
+      "storePhone": null,
+      "address": null
+    }
+  ]
+}

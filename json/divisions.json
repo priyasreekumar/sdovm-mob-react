@@ -1,0 +1,39 @@
+{
+  "divisionList": [
+    {"divisionNumber": "05", "divisionName": "DENVER"},
+    {"divisionNumber": "35", "divisionName": "EASTERN"},
+    {"divisionNumber": "24", "divisionName": "HAGGEN"},
+    {"divisionNumber": "30", "divisionName": "INTERMOUNTAIN"},
+    {"divisionNumber": "32", "divisionName": "JEWEL"},
+    {"divisionNumber": "34", "divisionName": "MID-ATLANTIC"},
+    {"divisionNumber": "25", "divisionName": "NOR. CALIFORNIA"},
+    {"divisionNumber": "19", "divisionName": "PORTLAND"},
+    {"divisionNumber": "27", "divisionName": "SEATTLE"},
+    {"divisionNumber": "33", "divisionName": "SHAWS"},
+    {"divisionNumber": "29", "divisionName": "SO CALIFORNIA"},
+    {"divisionNumber": "20", "divisionName": "SOUTHERN"},
+    {"divisionNumber": "17", "divisionName": "SOUTHWEST"},
+    {"divisionNumber": "45", "divisionName": "SUPPLY"},
+    {"divisionNumber": "15", "divisionName": "UNITED"}
+  ],
+  "dcList": [
+    {"dcId": "30", "dcName": "Anchorage"},
+    {"dcId": "33", "dcName": "Auburn"},
+    {"dcId": "66", "dcName": "Boise"},
+    {"dcId": "58", "dcName": "Brea"},
+    {"dcId": "35", "dcName": "Collington"},
+    {"dcId": "5", "dcName": "Denver"},
+    {"dcId": "59", "dcName": "Irvine"},
+    {"dcId": "55", "dcName": "Lancaster"},
+    {"dcId": "54", "dcName": "Melrose Park"},
+    {"dcId": "62", "dcName": "Methuen"},
+    {"dcId": "53", "dcName": "Portland"},
+    {"dcId": "76", "dcName": "Roanoke"},
+    {"dcId": "52", "dcName": "Salt Lake City"},
+    {"dcId": "31", "dcName": "Spokane"},
+    {"dcId": "60", "dcName": "Tolleson"},
+    {"dcId": "25", "dcName": "Tracy"},
+    {"dcId": "63", "dcName": "Wells"},
+    {"dcId": "67", "dcName": "ponca"}
+  ]
+}

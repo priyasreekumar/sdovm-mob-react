@@ -1,0 +1,81 @@
+{
+  "orderRouteInfoList": [
+    {
+      "stopID": "0",
+      "storeID": "05-DC",
+      "status": "Completed",
+      "estimatedArrival": null,
+      "estimatedDeparture": "2021-03-07T22:25:00.000+00:00",
+      "actualArrivalTime": null,
+      "actualDepartureTime": "2021-03-07T22:45:00.000+00:00",
+      "latitude": null,
+      "longitude": null,
+      "actualArrivalTimeText": null,
+      "actualDepartureTimeText": null,
+      "storePhone": null,
+      "address": null
+    },
+    {
+      "stopID": "1",
+      "storeID": "1479",
+      "status": "Delivered",
+      "estimatedArrival": "2021-03-07T22:38:00.000+00:00",
+      "estimatedDeparture": "2021-03-07T22:57:00.000+00:00",
+      "actualArrivalTime": "2021-03-07T23:07:00.000+00:00",
+      "actualDepartureTime": "2021-03-07T23:33:00.000+00:00",
+      "latitude": "39.7710634",
+      "longitude": "-105.0799306",
+      "actualArrivalTimeText": null,
+      "actualDepartureTimeText": null,
+      "storePhone": "303-456-2670",
+      "address": "3900 Wadsworth Blvd"
+    },
+    {
+      "stopID": "2",
+      "storeID": "2342",
+      "status": "Delivered",
+      "estimatedArrival": "2021-03-07T23:08:00.000+00:00",
+      "estimatedDeparture": "2021-03-07T23:33:00.000+00:00",
+      "actualArrivalTime": "2021-03-07T23:52:00.000+00:00",
+      "actualDepartureTime": "2021-03-08T00:31:00.000+00:00",
+      "latitude": "39.6812823",
+      "longitude": "-105.1226393",
+      "actualArrivalTimeText": null,
+      "actualDepartureTimeText": null,
+      "storePhone": "303-989-8810",
+      "address": "11088 W Jewell"
+    },
+    {
+      "stopID": "3",
+      "storeID": "0010",
+      "status": "Delivered",
+      "estimatedArrival": "2021-03-07T23:57:00.000+00:00",
+      "estimatedDeparture": "2021-03-08T00:31:00.000+00:00",
+      "actualArrivalTime": "2021-03-08T01:38:00.000+00:00",
+      "actualDepartureTime": "2021-03-08T01:39:00.000+00:00",
+      "latitude": "39.6458799",
+      "longitude": "-105.3401659",
+      "actualArrivalTimeText": null,
+      "actualDepartureTimeText": null,
+      "storePhone": "303-674-6625",
+      "address": "3851 S Hwy 74"
+    },
+    {
+      "stopID": "4",
+      "storeID": "05-DC",
+      "status": "Delivered",
+      "estimatedArrival": "2021-03-08T01:13:00.000+00:00",
+      "estimatedDeparture": null,
+      "actualArrivalTime": "2021-03-08T02:28:00.000+00:00",
+      "actualDepartureTime": null,
+      "latitude": null,
+      "longitude": null,
+      "actualArrivalTimeText": null,
+      "actualDepartureTimeText": null,
+      "storePhone": null,
+      "address": null
+    }
+  ],
+  "tripInfo": null,
+  "vehicleInfo": null
+}

@@ -1,0 +1,172 @@
+{
+  "orderDetailsList": [
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010018",
+      "itemID": "10878",
+      "itemDesc": "B&J ICE CRM STRAWBERRY CHEESECAKE",
+      "upcItem": "007684040021",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010076",
+      "itemID": "80222",
+      "itemDesc": "S SEL SHERBET MANDARIN ORANGE",
+      "upcItem": "002113009671",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010518",
+      "itemID": "11499",
+      "itemDesc": "B&J MILK & COOKIES",
+      "upcItem": "007684007657",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010564",
+      "itemID": "80058",
+      "itemDesc": "B&J CHOCOLATE THERAPY",
+      "upcItem": "007684022031",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010568",
+      "itemID": "80773",
+      "itemDesc": "B&J FUDGE CORE PEANUT BUTTER",
+      "upcItem": "007684036394",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010794",
+      "itemID": "03475",
+      "itemDesc": "TILLAMOOK ORIG PRM CHOC CHIP CKIE DGH",
+      "upcItem": "007283067111",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010795",
+      "itemID": "03482",
+      "itemDesc": "TILLAMOOK ORIG PRM HZLNUT SALTED CRML",
+      "upcItem": "007283067117",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010805",
+      "itemID": "03507",
+      "itemDesc": "TILLAMOOK ORIGINAL PREMIUM CHOC CHIP",
+      "upcItem": "007283067112",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42010808",
+      "itemID": "03532",
+      "itemDesc": "TILLAMOOK ORIG PRM MONSTER CKY ICE CRM",
+      "upcItem": "007283067120",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42011021",
+      "itemID": "03604",
+      "itemDesc": "TILLAMOOK ICE CRM PRM ORIG MALTED MOO",
+      "upcItem": "007283067122",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42011025",
+      "itemID": "03616",
+      "itemDesc": "TILLAMOOK ORIGINAL PREMIUM UDDERLY CHOC",
+      "upcItem": "007283067121",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42011029",
+      "itemID": "03626",
+      "itemDesc": "TILLAMOOK ORIGINAL PREMIUM OR STRAWBERRY",
+      "upcItem": "007283067110",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42011032",
+      "itemID": "03641",
+      "itemDesc": "TILLAMOOK ORIGINAL PREMIUM MUDSLIDE ICE",
+      "upcItem": "007283067119",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    },
+    {
+      "orderHeaderNumber": "52344571",
+      "orderOn": "06-MAR",
+      "storeID": "3430",
+      "corpItemCode": "42011054",
+      "itemID": "03672",
+      "itemDesc": "TILLAMOOK ORIG PRM CHOC ICE CRM",
+      "upcItem": "007283067103",
+      "quantityOrdered": "1",
+      "shippedQuantity": "1",
+      "invoiceNumber": "7662"
+    }
+  ]
+}
