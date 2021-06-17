@@ -79,10 +79,11 @@ import com.android.build.OutputFile
 
 project.ext.react = [
     enableHermes: false,  // clean and rebuild if changing
+     cliPath: "../../node_modules/react-native/local-cli/cli.js",
 ]
 
-apply from: "../../node_modules/react-native/react.gradle"
-apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
+apply from: "../../../node_modules/react-native/react.gradle"
+apply from: file("../../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
 /**
  * Set this to true to create two separate APKs instead of one:
  *   - An APK that only works on ARM devices
