@@ -29,7 +29,7 @@
     "react-native-responsive-fontsize": "^0.5.0",
     "react-native-responsive-screen": "^1.4.2",
     "react-native-safe-area-context": "^3.1.9",
-    "npm i react-native-screens": "3.3.0",
+    "react-native-screens": "3.3.0",
     "react-native-svg": "^12.1.0",
     "react-native-svg-image": "^2.0.1",
     "react-native-tab-view": "^2.15.2",
